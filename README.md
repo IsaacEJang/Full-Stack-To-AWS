@@ -3,6 +3,7 @@
 ## Overview
 This project involved migrating a full stack web application to the AWS cloud environment using serverless architecture. The application leverages services such as AWS Lambda, API Gateway, DynamoDB, and S3. Below, I detail my experiences, strengths, and plans for growth as a software developer, along with how this course has helped me achieve my professional goals.
 
+### Presentation Link: https://youtu.be/vyBYjdBZOVQ
 
 ## Technologies Used
 
@@ -20,6 +21,7 @@ This project involved migrating a full stack web application to the AWS cloud en
 | **Lambda Functions**: <br /> <br />Include the function code and configuration details.                         | ![Lambda Functions](https://github.com/user-attachments/assets/e85e487c-ea16-4734-b997-2fcbcd424d64)                                                  |
 | **S3 Bucket**: <br /> <br />Show the uploaded frontend files and public access settings.                        | ![S3 Bucket Contents](https://github.com/user-attachments/assets/b59637ef-7f67-4022-ba4e-c0f7d1a33264)                                                |
 | **Deployed Application**: <br /> <br />Provide the S3 URL and screenshots of the working application.           | ![Question POST 1](https://github.com/user-attachments/assets/9e5e64f4-4239-4d11-b5a9-adc04c9543b4)                                                   |
+
 
 
 ## Experiences and Strengths
